@@ -1,6 +1,6 @@
 # Basic Registration Form
 
-![](./assets/form.png)
+![](./assets/form.png) ![](./assets/Form1.png)
 
 ### Prerequisite
 
