@@ -1,0 +1,51 @@
+body{
+    /*sample bg*/
+    background-image: url("https://images.pexels.com/photos/230778/pexels-photo-230778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    font-size: 25px;
+}
+.login{
+    margin: auto;
+    display: grid;  
+    width: 50%;
+    padding: 20px;
+}
+.login button:hover{
+    background-color:black ;
+    color: wheat;
+    box-shadow: 0px 0px 15px blue;
+    transition: 0.5s;
+}
+.login button{
+    height: 38px;
+    font-size: 28px;
+    border-radius: 20px;
+}
+#eye{
+    margin-left: 10px;
+}
+#email:hover{
+    transform: scale(1.2,1.2);
+    transition: 0.8s ease-in-out;
+}
+#password:hover{
+    transform: scale(1.2,1.2);
+    transition: 0.8s ease-in-out;
+}
+.card{
+    margin: auto;
+    padding: 20px;
+    background-image: linear-gradient(135deg,rgba(72, 20, 20, 0.1),rgba(232, 16, 16, 0.1));
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+    border: 1px double rgba(39, 31, 31, 0.18);
+    box-shadow: 0px 0px 60px rgb(0, 0, 0);
+    width: 350px;
+    height: 350px;
+    justify-content: center;
+}
+.content{
+    margin: 8px;
+}
+
+
+
