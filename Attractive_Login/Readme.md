@@ -1,6 +1,6 @@
 # Attractive Login page
 
-![](./assets/form1.png) ![](./assets/form2.png)
+![](./assets/images/form2.png) ![](./assets/images/form1.png)
 
 ### Prerequisite
 
@@ -8,4 +8,4 @@
 
 ### Acknowlegment
 
-This design is a courtesy of ![ColorLib](https://colorlib.com/wp/template/login-form-v1/)
+This design is a courtesy of [ColorLib](https://colorlib.com/wp/template/login-form-v1/)
