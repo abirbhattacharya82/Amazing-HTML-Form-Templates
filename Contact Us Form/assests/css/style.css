@@ -73,7 +73,7 @@ a {
     color: #fff;
     padding: 15px 20px; }
   .btn:hover {
-    color: #fff; }
+    background: rgb(21, 33, 72); }
   .btn:active, .btn:focus {
     outline: none;
     -webkit-box-shadow: none;
