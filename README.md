@@ -6,4 +6,4 @@ This repository offers a valuable collection of ready-made HTML form templates. 
 
 ## How to Contribute
 
-We welcome contributions to improve this project! To get started, please read our [Contribution Guidelines](Contribution.md).
+Contributions are always Welcome ! Your Contributions should be meaningful and adding some value to this Repository. To get started, please consider reading our [Contribution Guidelines](Contribution.md).
